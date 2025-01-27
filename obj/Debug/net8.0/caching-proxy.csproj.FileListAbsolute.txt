@@ -1,0 +1,16 @@
+C:\Users\jonat\Desktop\Programming\BackEnd\Projects\caching-proxy\bin\Debug\net8.0\caching-proxy.exe
+C:\Users\jonat\Desktop\Programming\BackEnd\Projects\caching-proxy\bin\Debug\net8.0\caching-proxy.deps.json
+C:\Users\jonat\Desktop\Programming\BackEnd\Projects\caching-proxy\bin\Debug\net8.0\caching-proxy.runtimeconfig.json
+C:\Users\jonat\Desktop\Programming\BackEnd\Projects\caching-proxy\bin\Debug\net8.0\caching-proxy.dll
+C:\Users\jonat\Desktop\Programming\BackEnd\Projects\caching-proxy\bin\Debug\net8.0\caching-proxy.pdb
+C:\Users\jonat\Desktop\Programming\BackEnd\Projects\caching-proxy\obj\Debug\net8.0\caching-proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Desktop\Programming\BackEnd\Projects\caching-proxy\obj\Debug\net8.0\caching-proxy.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\Programming\BackEnd\Projects\caching-proxy\obj\Debug\net8.0\caching-proxy.AssemblyInfo.cs
+C:\Users\jonat\Desktop\Programming\BackEnd\Projects\caching-proxy\obj\Debug\net8.0\caching-proxy.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Programming\BackEnd\Projects\caching-proxy\obj\Debug\net8.0\caching-proxy.dll
+C:\Users\jonat\Desktop\Programming\BackEnd\Projects\caching-proxy\obj\Debug\net8.0\refint\caching-proxy.dll
+C:\Users\jonat\Desktop\Programming\BackEnd\Projects\caching-proxy\obj\Debug\net8.0\caching-proxy.pdb
+C:\Users\jonat\Desktop\Programming\BackEnd\Projects\caching-proxy\obj\Debug\net8.0\caching-proxy.genruntimeconfig.cache
+C:\Users\jonat\Desktop\Programming\BackEnd\Projects\caching-proxy\obj\Debug\net8.0\ref\caching-proxy.dll
+C:\Users\jonat\Desktop\Programming\BackEnd\Projects\caching-proxy\obj\Debug\net8.0\caching_proxy.Properties.Resources.resources
+C:\Users\jonat\Desktop\Programming\BackEnd\Projects\caching-proxy\obj\Debug\net8.0\caching-proxy.csproj.GenerateResource.cache
