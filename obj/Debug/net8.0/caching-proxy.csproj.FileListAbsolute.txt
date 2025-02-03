@@ -14,3 +14,6 @@ C:\Users\jonat\Desktop\Programming\BackEnd\Projects\caching-proxy\obj\Debug\net8
 C:\Users\jonat\Desktop\Programming\BackEnd\Projects\caching-proxy\obj\Debug\net8.0\ref\caching-proxy.dll
 C:\Users\jonat\Desktop\Programming\BackEnd\Projects\caching-proxy\obj\Debug\net8.0\caching_proxy.Properties.Resources.resources
 C:\Users\jonat\Desktop\Programming\BackEnd\Projects\caching-proxy\obj\Debug\net8.0\caching-proxy.csproj.GenerateResource.cache
+C:\Users\jonat\Desktop\Programming\BackEnd\Projects\caching-proxy\obj\Debug\net8.0\caching-proxy.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\Programming\BackEnd\Projects\caching-proxy\bin\Debug\net8.0\CommandLine.dll
+C:\Users\jonat\Desktop\Programming\BackEnd\Projects\caching-proxy\obj\Debug\net8.0\caching-.1CA88739.Up2Date

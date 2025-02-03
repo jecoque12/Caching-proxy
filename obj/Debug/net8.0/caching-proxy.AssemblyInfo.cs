@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("caching-proxy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a29732c4a5742154bfd2138ac6583004de59c263")]
 [assembly: System.Reflection.AssemblyProductAttribute("caching-proxy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("caching-proxy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

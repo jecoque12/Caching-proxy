@@ -1,10 +1,15 @@
-﻿namespace caching_proxy
+﻿using CommandLine;
+
+namespace caching_proxy
 {
     public class Options
     {
-        public const string Port = "--port";
-        public const string Origin = "--origin";
-        public const string abbreviationPort = "-p";
-        public const string abbreviationOrigin = "-o";
+
+        [Option("port", Required = true, HelpText = "--port <PORT>")]
+        public string PORT { get; set; } = string.Empty;
+        [Option("origin", Required = true, HelpText = "--origin <ORIGIN>")]
+        public string ORIGIN { get; set; } = string.Empty;
+        [Option("clear-cache", Required = false, HelpText = "--clear-cache")]
+        public bool ClearCache { get; set; }
     }
 }

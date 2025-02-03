@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MIg18arwneQ=",
+  "dgSpecHash": "8h4wfkNfRL8=",
   "success": true,
   "projectFilePath": "C:\\Users\\jonat\\Desktop\\Programming\\BackEnd\\Projects\\caching-proxy\\caching-proxy.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jonat\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512"
+  ],
   "logs": []
 }
